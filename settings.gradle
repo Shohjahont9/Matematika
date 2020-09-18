@@ -1,0 +1,3 @@
+include ':mylab'
+include ':app'
+rootProject.name = "Library"
